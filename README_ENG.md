@@ -23,7 +23,7 @@ Welcome to the official documentation hub of **LS-Code-Dev**. This space collect
 | Member             | Role                         | Technical Focus                                               |
 | :----------------- | :--------------------------- | :------------------------------------------------------------ |
 | **@linux07source** | Lead Systems Architect       | Kernel optimization, OS design, development environment setup |
-| **@crother2**      | Chief Communications Officer | Docs localization (ENG), global outreach, strategy & PR       |
+| **@crother2**      | Toolchain Engineer           | Docs localization (ENG), global outreach, strategy & PR       |
 
 ---
 
