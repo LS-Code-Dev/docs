@@ -35,7 +35,7 @@ Welcome to the official documentation hub of **LS-Code-Dev**. This space collect
 
 ---
 
-## 🌐 Connect with Us
+## 🌐 Links
 
 * **GitHub:** [LS-Code-Dev](https://github.com/ls-code-dev)
 * **Instagram:** [@l30.nrd](https://instagram.com/l30.nrd)
